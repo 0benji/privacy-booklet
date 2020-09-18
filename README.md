@@ -15,12 +15,12 @@ Topics that we would like to discuss include (but are not limited to):
    - How the same organizations use social media platforms to manipulate the behaviour of populations
    - Specific problems with individual tools/apps/platforms/technologies
    - Why people should care/how is this problem affecting them/those they love
-   - What the future may hold if no intervention is taken
+   - What the future may hold if no intervention is made
  - Solutions
-   - Technologies that people can use instead e.g. privacy-respecting apps
+   - Technologies that people can use instead e.g. privacy-respecting apps, cryptocurrencies etc
    - Approaches to improving privacy without having to make big lifestyle changes
    - Good ways to think about privacy and how data can travel/leak/follow you around, approaches to "opsec" for ordinary people
-   - 
+   - What the future may hold if the right interventions are made
 
 ## Why help with this?
 People love an attractive booklet, and a nice bit of printed media often sinks home a point better than a wall of internet text. Help change the minds of the people who are falling victim to invasions of privacy, abuses of digital power and cynical profiteering by governments and corporations all over the world. Share what you know and fight surveillance capitalism by spreading the knowledge. Convince a few more people to join that cool new E2EE chat app that you've only got 3 contacts on.  

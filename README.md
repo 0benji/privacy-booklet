@@ -41,9 +41,9 @@ The final, styled booklet will also of course be available in digital format.
 ## Writing Information
 ### Format
  - The booklet content will be written here in [markdown format](https://guides.github.com/features/mastering-markdown/).
- - The plan is for it to be about 16-24 pages long.
+ - The plan is for it to be about 16-24 A5 pages long.
  - Images are welcome if they can legally be included in a GPL3.0 document, good citations for factual information are strongly encouraged.
- - Right now the plan is to write the entire booklet as one markdown file, but this may change if it is decided that it would be better split into some other structure.
+ - Right now the plan is to write the entire booklet as one markdown file (`booklet.md`), but this may change if it is decided that it would be better split into some other structure.
  
 ### Tone
  - We want to create a sense of urgency around privacy issues, not to spread fear or panic. Text contributions should be primarily factual and objective and allow the reader to make their own conclusions about the issues discussed. Writing should ideally be engaging to read.

@@ -1,7 +1,7 @@
 # Privacy Booklet 
 
 ## Aims
-This repository will host content and collaboration for a work-in-progress booklet about online privacy and security.  
+This repository will host content and collaboration for a work-in-progress booklet about online privacy and security. We want to make a physical document that can be passed around with the same educational goals as projects like [privacytools.io](https://www.privacytools.io/), [PRISM Break](https://prism-break.org/en/), [Center for Humane Technology](https://www.humanetech.com/) and others.
 
 The booklet is aimed at ordinary regular social/internet technology users, rather than developers or experts in IT, but ideally it will provide information that will be relevant and useful to as many people as possible.  
 
